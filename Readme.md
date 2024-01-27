@@ -1,1 +1,2 @@
-# This is a repository
+# repository 
+This contains repository informations
